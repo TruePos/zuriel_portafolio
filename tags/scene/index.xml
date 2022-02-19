@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Zuriel Torres</title>
+    <link>https://truepos.github.io/zuriel_portafolio/tags/scene/</link>
+    <description>Recent content in scene on Zuriel Torres</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://truepos.github.io/zuriel_portafolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 1</title>
+      <link>https://truepos.github.io/zuriel_portafolio/post/proyecto-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://truepos.github.io/zuriel_portafolio/post/proyecto-1/</guid>
+      <description>Bullet 1 Bullet 2 Bullet 3  var add2 = function(number) { return number + 2; }  link to github repository</description>
+    </item>
+    
+  </channel>
+</rss>
